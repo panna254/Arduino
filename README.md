@@ -2,8 +2,7 @@
 - Real-time motion detection with adjustable sensitivity
 - Visual (LED) and audible (buzzer) alerts
 - Configurable detection timeout period
-- Serial monitor logging for debugging
-- Low-power sleep mode capability
+- Serial monitor logging for debugging 
 
 ## Hardware Requirements
 | Component              | Specification                     | Qty |
